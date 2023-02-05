@@ -25,6 +25,7 @@ Install my-project with npm
 This project is deployed on :
 
 Live view:
+https://akshay058.github.io/ping-pong-game-javascript/
 https://ak-javascript-pingpong.netlify.app/
 
 To deploy this project run
